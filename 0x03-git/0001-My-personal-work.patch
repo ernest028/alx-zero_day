@@ -1,0 +1,44 @@
+From 874502009608dfabf1595027e6c366f0ff1e1280 Mon Sep 17 00:00:00 2001
+From: ernest028 <earnestkinyua28@gmail.com>
+Date: Tue, 30 Aug 2022 13:37:38 -0700
+Subject: [PATCH 1/5] My personal work
+
+---
+ 0x03-git/bash/98     | 0
+ 0x03-git/bash/alx    | 2 +-
+ 0x03-git/bash/school | 2 +-
+ 0x03-git/js/index.js | 0
+ 0x03-git/js/main.js  | 0
+ 5 files changed, 2 insertions(+), 2 deletions(-)
+ create mode 100644 0x03-git/bash/98
+ create mode 100644 0x03-git/js/index.js
+ create mode 100644 0x03-git/js/main.js
+
+diff --git a/0x03-git/bash/98 b/0x03-git/bash/98
+new file mode 100644
+index 0000000..e69de29
+diff --git a/0x03-git/bash/alx b/0x03-git/bash/alx
+index f144a8d..fbed397 100644
+--- a/0x03-git/bash/alx
++++ b/0x03-git/bash/alx
+@@ -1,2 +1,2 @@
+ #!/bin/bash
+-echo "ALX"
++echo "ALX School""
+diff --git a/0x03-git/bash/school b/0x03-git/bash/school
+index 8929203..c82580c 100644
+--- a/0x03-git/bash/school
++++ b/0x03-git/bash/school
+@@ -1,2 +1,2 @@
+ #!/bin/bash
+-echo "School"
++echo "The school is open!"
+diff --git a/0x03-git/js/index.js b/0x03-git/js/index.js
+new file mode 100644
+index 0000000..e69de29
+diff --git a/0x03-git/js/main.js b/0x03-git/js/main.js
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.25.1
+

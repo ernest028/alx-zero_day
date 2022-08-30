@@ -1,0 +1,19 @@
+From b2e2b68adf91f90982277d4c7eb1fde986e4e078 Mon Sep 17 00:00:00 2001
+From: ernest028 <85806980+ernest028@users.noreply.github.com>
+Date: Wed, 31 Aug 2022 00:27:58 +0300
+Subject: [PATCH 4/5] Update README.md
+
+---
+ README.md | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index e359e46..51a29bd 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1 @@
+ My first readme
+-I love coding
+-- 
+2.25.1
+
